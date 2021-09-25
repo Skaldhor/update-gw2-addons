@@ -4,8 +4,9 @@ This script will update several Guild Wars 2 add-ons to the latest version.
 2. [ArcDPS Boon Table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)
 3. [ArcDPS Mechanics Log](https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log)
 4. [ArcDPS Killproof Plugin](https://github.com/knoxfighter/arcdps-killproof.me-plugin)
-5. [Tekkit markers](http://tekkitsworkshop.net/index.php/gw2-taco/download) for [TacO](http://www.gw2taco.com/)
-6. [GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+5. [TacO](http://www.gw2taco.com/) (Tactical Overlay)
+6. [Tekkit markers](http://tekkitsworkshop.net/index.php/gw2-taco/download) for TacO
+7. [GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
 
 ## Installation
 1. download my .ps1 script
