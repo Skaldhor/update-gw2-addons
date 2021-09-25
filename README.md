@@ -9,6 +9,6 @@ This script will update several Guild Wars 2 add-ons to the latest version.
 7. [GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
 
 ## Installation
-1. download my .ps1 script
+1. download the .ps1 script
 2. edit it, change the two variables, so they match your setup (GW2 install folder, TacO install folder) and save it
-3. create a scheduled task to run the script automatically every day/reboot
+3. create a scheduled task to run the script automatically every day/reboot/whenever you want
