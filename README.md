@@ -11,5 +11,5 @@ This script will update several Guild Wars 2 add-ons to the latest version.
 
 ## Installation
 1. download the .ps1 script
-2. edit it, change the two variables, so they match your setup (GW2 install folder, TacO install folder) and save it
-3. create a scheduled task to run the script automatically every day/reboot/whenever you want
+2. edit it, change the variables, so they match your setup (install folder, desired add-ons) and save it
+3. create a scheduled task to run the script automatically every day/reboot/whenever you want (make sure to run the script with elevated rights if your user doesn't have the rights to modify the GW2 folder)
