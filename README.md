@@ -14,3 +14,4 @@ This script will install/update/uninstall several Guild Wars 2 add-ons. Supporte
 2. edit the script, change the variables (install folder, desired add-ons) and save it
 3. create a scheduled task to run the script automatically every day/reboot/whenever you want
 4. make sure to run the script with elevated rights if your user doesn't have the rights to modify the GW2 folder
+5. if you enable automatically checking for updates the script must be run in user context, so if you created a scheduled task for it, make sure to set it to "Run only when user is logged on". Otherwise you won't see the textbox telling you about it.
