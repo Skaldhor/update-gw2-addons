@@ -12,6 +12,5 @@ This script will install/update/uninstall several Guild Wars 2 add-ons. Supporte
 ## Installation
 1. [download the .ps1 script](https://github.com/Skaldhor/update-gw2-addons/releases/latest)
 2. edit the script, change the variables (install folder, desired add-ons) and save it
-3. create a scheduled task to run the script automatically every day/reboot/whenever you want
-4. make sure to run the script with elevated rights if your user doesn't have the rights to modify the GW2 folder
-5. if you enable automatically checking for updates the script must be run in user context, so if you created a scheduled task for it, make sure to set it to "Run only when user is logged on". Otherwise you won't see the textbox telling you about it.
+3. run the script manually or create a scheduled task to run the script automatically every day/reboot/whenever you want
+4. when using task scheduler make sure to run the script with elevated rights and if you don't want to see the powershell window, select "run whether user is logged on or not" (you will still get a visible messeage box if an update is available (if you enabled checking for updates))
